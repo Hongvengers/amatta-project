@@ -5,16 +5,10 @@
 
 # 도메인 정의
 
-## Task-Management
-할일을 관리하는 도메인 영역입니다.
+## Event Storming 
+![DomainEvents20230705](https://github.com/Hongvengers/port-and-adapter-task-management-project/assets/66003338/ed97689b-ab3f-4421-b85d-494141acfe17)
+기준일 2023.07.05
 
-### User
-- 사용자를 정의하는 도메인입니다.
-
-### Task
-- 한 개의 단위의 할 일을 나타내는 도메인입니다.
-
-### Routine
-- Task(or etc.)가 여럿 뭉쳐 하나의 루틴이 될 수 있는 도메인 엔티티입니다.
-
-크게 3가지 골자로 구성을 하게 될 예정입니다. (진짜 예정임. 더 추가해야함)
+크게
+사용자, 할일, 할일들을 묶을 수 있는 루틴, 알림
+위와 같이 도메인 영역을 잡고 정의를 진행하였다. (계속 추가되어야 함)
