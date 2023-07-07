@@ -1,11 +1,11 @@
-package hongvengers.miniboard;
+package com.amatta.task;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiniBoardApplicationTests {
+class TaskApplicationTests {
 
 	@Test
 	void contextLoads() {
