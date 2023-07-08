@@ -25,7 +25,7 @@
 
 
 ### 기준일 2023.07.09
-![DomainEventsWithCommand20230706](https://github.com/Hongvengers/port-and-adapter-task-management-project/assets/66003338/9b289409-d996-401e-9059-444525bc0c65)
+![Domain20230708](https://github.com/Hongvengers/port-and-adapter-task-management-project/assets/66003338/d42596a1-d3ed-4a3d-a48f-744a4afdb00e)
 
 DDD라는 것이 너무 어렵게 느껴졌다.
 특히 애그리거트를 정의를하기 시작할때, "이 이벤트는 사용자가 실행하는거니까 사용자 애그리거트구나" 정도로 막연하게 생각했다.
